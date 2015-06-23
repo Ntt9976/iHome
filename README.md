@@ -50,4 +50,4 @@
 
 Big Board https://trello.com/b/bYFd6kq8/ihome-board
 
-![BurnDown Chart](https://goo.gl/photos/TGNFmhc9rYwUrei66);
+![BurnDown Chart](https://lh3.googleusercontent.com/UPAPgTDNIn2iasoJ1YzPehuZI1aqs-UsZn1fKmDtkA=w1766-h641-no);
