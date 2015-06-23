@@ -52,4 +52,8 @@ Big Board https://trello.com/b/bYFd6kq8/ihome-board
 
 
 BurnDwon Chart
-![BurnDown Chart](https://lh3.googleusercontent.com/UPAPgTDNIn2iasoJ1YzPehuZI1aqs-UsZn1fKmDtkA=w1766-h641-no);
+![BurnDown Chart](https://lh3.googleusercontent.com/Q7VnBffrRUIYJSUO8t2w6GMIFJqZkKRDpLSLOSd5QQ=w517-h237-no);
+
+![BurnDown Chart](https://lh3.googleusercontent.com/FcyT8rMs26FieEA3UwODY_NIeG45Ka0MOBT8LZT0lQ=w954-h519-no);
+
+![BurnDown Chart](https://lh3.googleusercontent.com/u1BYmhM79ohp2mMP2F4HrEKuTLEjy5wv_E_lidLfmQ=w697-h497-no);
